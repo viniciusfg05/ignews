@@ -12,11 +12,11 @@ export function Header() {
         <img src="/logo.svg" alt="vl.News" /> 
         <nav>
           <ActiveLink activeClassName={styles.active} href="/">
-            <a>Home</a>
+            <p>Home</p>
           </ActiveLink>
 
-          <ActiveLink activeClassName={styles.active} href="/posts" prefetch>
-            <a>Posts</a>
+          <ActiveLink activeClassName={styles.active} href="/posts">
+            <p>Posts</p>
           </ActiveLink>
         </nav>
       </div>

@@ -20,7 +20,7 @@ export function SubscribeButtton(priceId: SubscribeButttonProps) {
       return;
     }
 
-    if (session.activeSubscription) {
+    if (session.user) {
       router.push('/posts');
 
       return;

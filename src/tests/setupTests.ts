@@ -1,0 +1,1 @@
+import '@testing-library/jest-dom/extend-expect' // tras algumas funcionabilidade pra lidar com a DOM

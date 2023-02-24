@@ -22,6 +22,8 @@ export function SingInButton() {
   );
 }
 
+
+
 // #Stripe
 // STRIPE_API_KEY=sk_test_51KaMv1F0aa4KZVxjGUEk1dxjod6HYqvIxTrGXAAtPXoGoSfyRuc51u7QFKbfsMsEl4qLJpWYxvQstHp24QmgkfTF00AqI0OplI
 // NEXT_PUBLIC_STRIPE_PUBLIC_KEY=pk_test_51KaMv1F0aa4KZVxjEb9DVL9ZkjFOZ4TnuN3bnSIfG7yvCOAIxUFDIfMC7y6BijB1M8ddrGeixfIWrqv7W92BuKPE00guOHa2DG
